@@ -2,8 +2,6 @@
 
 Este repositório contém alguns programas em C++ desenvolvidos para praticar o uso de loops através da impressão de padrões. Experimentando diferentes estruturas de repetição, logo abaixo estão os padrões visuais que demonstram como loops aninhados podem gerar formas e sequências no console.
 
-## 
-
 ## Pirâmide Completa e Pirâmide Invertida
 
 O primeiro programa gera dois padrões:
